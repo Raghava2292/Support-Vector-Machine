@@ -1,0 +1,7 @@
+Task - 1
+
+    Application of SVM to build a classification model that can predict a forest fire category based on the other conditions
+
+Task - 2
+
+    Application of SVM to build a classification model that can predict if a persons salary is above or below 50K based on other conditions.
